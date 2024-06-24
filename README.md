@@ -1,2 +1,2 @@
-# pythontraininglab
+# mycode
 for python training class
